@@ -4,7 +4,7 @@
 
 My unique skill set includes:
   - Cyber Security Researching
-  - Netowrk Security Solutions
+  - Network Security Solutions
   - Architecting Secure Systems and Networks
   - Offensive DevOps Engineering
   - Home Labbing (The Best Part)
